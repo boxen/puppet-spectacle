@@ -9,7 +9,7 @@ describe 'spectacle' do
 
   it do
     should contain_package('spectacle').with({
-      :source   => 'https://s3.amazonaws.com/spectacle/downloads/Spectacle+0.8.2.zip',
+      :source   => 'https://s3.amazonaws.com/spectacle/downloads/Spectacle+0.8.4.zip',
       :provider => 'compressed_app'
     })
   end
