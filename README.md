@@ -11,4 +11,4 @@ include sqlpro
 ## Required Puppet Modules
 
 * boxen
-
+travis test
