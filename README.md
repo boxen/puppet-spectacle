@@ -1,13 +1,13 @@
-# Spectacle Puppet Module for Boxen
+# SQL Pro Puppet Module for Boxen
 
 [![Build Status](https://travis-ci.org/boxen/puppet-spectacle.png)](https://travis-ci.org/boxen/puppet-spectacle)
 
 ## Usage
 
 ```puppet
-include spectacle
+include sqlpro
 ```
-[Spectacle Website](http://spectacleapp.com/)
+[Spectacle Website](http://www.sequelpro.com/)
 ## Required Puppet Modules
 
 * boxen

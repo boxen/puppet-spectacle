@@ -3,9 +3,9 @@
 # Examples
 #
 #   include spectacle
-class spectacle {
-  package { 'spectacle':
-    provider => 'compressed_app',
-    source   => 'https://s3.amazonaws.com/spectacle/downloads/Spectacle+0.8.2.zip'
+class sqlpro {
+  package { 'sqlpro':
+    provider => 'appdmg',
+    source   => 'https://sequel-pro.googlecode.com/files/sequel-pro-1.0.2.dmg'
   }
 }

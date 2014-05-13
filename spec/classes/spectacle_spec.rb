@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'spectacle' do
+describe 'sqlpro' do
   let(:facts) do
     {
       :boxen_home => '/opt/boxen'
@@ -8,9 +8,9 @@ describe 'spectacle' do
   end
 
   it do
-    should contain_package('spectacle').with({
-      :source   => 'https://s3.amazonaws.com/spectacle/downloads/Spectacle+0.8.2.zip',
-      :provider => 'compressed_app'
+    should contain_package('sqlpro').with({
+      :source   => 'https://sequel-pro.googlecode.com/files/sequel-pro-1.0.2.dmg',
+      :provider => 'appdmg'
     })
   end
 end
