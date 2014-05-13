@@ -1,6 +1,6 @@
 # SQL Pro Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-sqlpro.png)](https://travis-ci.org/thrills/puppet-sqlpro)
+[![Build Status](https://travis-ci.org/thrills/puppet-sqlpro.png)](https://travis-ci.org/thrills/puppet-sqlpro)
 
 ## Usage
 
