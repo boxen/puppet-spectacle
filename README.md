@@ -11,3 +11,4 @@ include sqlpro
 ## Required Puppet Modules
 
 * boxen
+tsting
